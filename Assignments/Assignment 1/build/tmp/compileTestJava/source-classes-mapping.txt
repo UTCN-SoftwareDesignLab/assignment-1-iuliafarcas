@@ -1,0 +1,18 @@
+repository/account/AccountRepositoryMySQLTest.java
+ repository.account.AccountRepositoryMySQLTest
+service/activity/ActivityServiceImplTest.java
+ service.activity.ActivityServiceImplTest
+repository/activity/ActivityRepositoryMySQLTest.java
+ repository.activity.ActivityRepositoryMySQLTest
+repository/user/UserRepositoryMySQLTest.java
+ repository.user.UserRepositoryMySQLTest
+service/user/UserServiceImplTest.java
+ service.user.UserServiceImplTest
+service/user/AuthenticationServiceImplTest.java
+ service.user.AuthenticationServiceImplTest
+repository/client/ClientRepositoryMySQLTest.java
+ repository.client.ClientRepositoryMySQLTest
+service/client/ClientServiceImplTest.java
+ service.client.ClientServiceImplTest
+service/account/AccountServiceImplTest.java
+ service.account.AccountServiceImplTest
